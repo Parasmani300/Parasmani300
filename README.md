@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Parasmani300
-- 👀 I’m interested in Web and Android Application Development. I have an experience developing web apps using React and Falsk and Android using Java and Hybrid Andriod apps using
-      React Native.
+- 👀 I have 4+ years of expereience developing applications using Java and related technologies.
 - 🌱 I’m currently learning AWS and Azure.
-- 💞️ I’m looking to collaborate on web development projects using React or Flask
+- 💞️ I’m looking to collaborate on projects using Java.
 - 📫 How to reach me @ parasmani300@gmail.com
 
 <!---
